@@ -1,10 +1,10 @@
-# Excel Learning Journey 📊
+# 📊Excel Learning Journey
 
 ## Overview
 
 This repository contains my Excel learning journey and practice workbook. All concepts were practiced in a single Excel file using separate worksheets for each topic.
 
-## Topics Covered
+## 📚Topics Covered
 
 * Basic Excel
 * Basic Formulas
@@ -34,11 +34,11 @@ This repository contains my Excel learning journey and practice workbook. All co
 * Dashboard 3
 * Dashboard 4
 
-## File Structure
+## 📂File Structure
 
 The workbook contains multiple worksheets, with each worksheet dedicated to a specific Excel concept or mini-project.
 
-## Skills Learned
+## 💡Skills Learned
 
 * Data Cleaning
 * Data Analysis
@@ -48,6 +48,6 @@ The workbook contains multiple worksheets, with each worksheet dedicated to a sp
 * Lookup Functions
 * Pivot Table Analysis
 
-## Tools Used
+## 🛠️Tools Used
 
 * Microsoft Excel
